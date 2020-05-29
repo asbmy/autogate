@@ -1,5 +1,9 @@
 # autogate
-Automatic Gate System using PIC18F
+Automatic Gate System using PIC18F Microcontroller
+
+* Programming Language: C
+* Microcontroller: PIC18F4580 
+* Tools: Proteus Design Suite
 
 Features:
 
